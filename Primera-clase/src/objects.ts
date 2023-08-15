@@ -43,5 +43,4 @@ const object:{
     edad:10
 }
 object.edad = 11
-object.id = 9
 console.log(object);

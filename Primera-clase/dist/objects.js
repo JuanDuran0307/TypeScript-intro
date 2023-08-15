@@ -17,3 +17,10 @@ console.log(goleadoresId);
 goleadoresId.push(+"13");
 console.log(goleadoresId);
 console.log(typeof goleadoresId);
+const object = {
+    id: 7,
+    nombre: "Jisus",
+    edad: 10
+};
+object.edad = 11;
+console.log(object);
